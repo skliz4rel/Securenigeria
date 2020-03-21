@@ -1,0 +1,16 @@
+These is the Api Documentations to All the Endpoints
+
+They are all GET Endpoints. Copy and paste on the Webrowser and you would see the json response
+
+http://farmnet.azurewebsites.net/securenija/apiservice.php?issuelist=1
+
+http://farmnet.azurewebsites.net/securenija/apiservice.php?feedbacklist=1
+
+http://farmnet.azurewebsites.net/securenija/apiservice.php?countissues=1
+
+http://farmnet.azurewebsites.net/securenija/apiservice.php?countfeedbacks=1
+
+http://farmnet.azurewebsites.net/securenija/apiservice.php?emergencylist=1
+
+http://farmnet.azurewebsites.net/securenija/apiservice.php?countemergencys=1
+
